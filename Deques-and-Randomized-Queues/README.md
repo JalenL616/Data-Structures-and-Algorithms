@@ -1,6 +1,6 @@
 # Deques and Randomized Queues
 
-This project, completed for my high school data structures and algorithms course, involves the implementation of two fundamental data structures: a double-ended queue (Deque) and a randomized queue. **This project is based on the programming project from Princeton University's "Algorithms, Part 1" course on Coursera.**
+This project, completed for my high school data structures and algorithms course, involves the **implementation of two fundamental data structures: a double-ended queue (Deque) and a randomized queue**. This project is based on the programming project from Princeton University's "Algorithms, Part 1" course on Coursera.
 The goal is to create generic, efficient, and iterable implementations of these data structures from scratch, without using Java's built-in collections library for the underlying storage.
 
 https://www.coursera.org/learn/algorithms-part1/programming/zamjZ/deques-and-randomized-queues
