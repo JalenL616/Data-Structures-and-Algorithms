@@ -1,6 +1,6 @@
 # Percolation
 
-This project, completed for my high school data structures and algorithms course, is an implementation of a solution to the Percolation problem, __as presented in Princeton University's "Algorithms, Part 1" course on Coursera.__ The primary goal is to estimate the percolation threshold of an N-by-N grid system using a Monte Carlo simulation.
+This project, completed for my high school data structures and algorithms course, is an implementation of a solution to the Percolation problem, as presented in Princeton University's "Algorithms, Part 1" course on Coursera. The primary goal is to **estimate the percolation threshold** of an N-by-N grid system **using a Monte Carlo simulation**.
 
 https://www.coursera.org/learn/algorithms-part1/programming/Lhp5z/percolation
 
