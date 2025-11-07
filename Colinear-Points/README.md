@@ -1,7 +1,7 @@
 # Colinear-Points
 
 This project, completed as part of my high school data structures and algorithms course, implements two algorithms to identify all line segments containing 4 or more collinear points within a given set of points. The programming project is from Princeton University's "Algorithms, Part 1" course on Coursera.
-The project contrasts a brute-force approach with a more efficient, sorting-based algorithm, demonstrating the profound impact of algorithm design on performance.
+The project **contrasts a brute-force approach with a more efficient, sorting-based algorithm**, demonstrating the profound impact of algorithm design on performance.
 
 https://www.coursera.org/learn/algorithms-part1/programming/prXiW/collinear-points
 
